@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RadiusView">
+        <attr name="radius" format="dimension"/>
+        <attr name="radius_left" format="dimension"/>
+        <attr name="radius_top" format="dimension"/>
+        <attr name="radius_right" format="dimension"/>
+        <attr name="radius_bottom" format="dimension"/>
+
+        <attr name="normal_strokeWidth" format="dimension"/>
+        <attr name="press_strokeWidth" format="dimension"/>
+
+        <attr name="normal_solidColor" format="color"/>
+        <attr name="press_solidColor" format="color"/>
+
+        <attr name="normal_textColor" format="color"/>
+        <attr name="press_textColor" format="color"/>
+
+        <attr name="normal_textSize" format="dimension"/>
+        <attr name="press_textSize" format="dimension"/>
+
+        <attr name="normal_shadowColor" format="color"/>
+        <attr name="press_shadowColor" format="color"/>
+        <attr name="normal_shadowSize" format="dimension"/>
+        <attr name="press_shadowSize" format="dimension"/>
+    </declare-styleable>
+</resources>
